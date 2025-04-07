@@ -21,7 +21,7 @@ app.get("/bby", (req, res) => {
     name,
     message: random,
     status: "success",
-    author: "✨ Eren Yeh ✨"
+    author: "Eren Yeh "
   });
 });
 
